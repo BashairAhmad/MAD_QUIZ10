@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MADlec10_Quiz</string>
+    <string name="cricket_news">Cricket News</string>
+    <string name="football_news">Football News</string>
+    <string name="tennis_news">Tennis News</string>
+    <string name="tofo">tofo</string>
+    <string name="todo">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="tennis">Tennis</string>
+    <string name="cricket">Cricket</string>
+    <string name="football">Football</string>
+</resources>
